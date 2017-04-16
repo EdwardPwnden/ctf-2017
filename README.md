@@ -5,9 +5,9 @@ Local organizing could be by category, and then by task, either as directories o
 
 ## CTF list:
 
-- [The Gathering](./The Gathering)
+- [The Gathering](./The\ Gathering)
 
 
 ### Assorted and chosen writeups:
 
-- [Transmission control](./The Gathering/writeup/crypto/transmission-control.md)
+- [Transmission control](./The\ Gathering/writeup/crypto/transmission-control.md)
