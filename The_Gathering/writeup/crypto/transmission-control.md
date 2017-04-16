@@ -61,9 +61,13 @@ Meaning each message contain it's very own IV to be used for decryption of that 
 After reading about [ECDH key exchange](http://andrea.corbellini.name/2015/05/30/elliptic-curve-cryptography-ecdh-and-ecdsa/), we see that the transmission is as follows:
 
 __*a, b, p*__
+
 __*G_x, G_y*__
+
 __*cG_x, cG_y*__
+
 __*dG_x, dG_y*__
+
 
 Where __*a*__, __*b*__ and __*p*__ are the curve parameters, and __*p*__ must be prime, used to generate the elliptic curve by the means of the following function:
 
