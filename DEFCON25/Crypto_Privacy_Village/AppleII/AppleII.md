@@ -12,7 +12,7 @@ When we figured that out, we took the letters ``HCAPCEROBNI`` and ran them throu
 
 I can't find the correct one, but one of those gave us ``BACON CIPHER``. That sounds plausible!
 
-Now, you can read more about [Bacon's cipher here](https://en.wikipedia.org/wiki/Bacon%27s_cipher), but the gist of it is that a set of bits are encoded not as bits, but as "text". So ``sTrAT`` could mean ``01011`` which decodes to an ``M`` (Look at the table on Wikipedia).
+Now, you can read more about [Bacon's cipher here](https://en.wikipedia.org/wiki/Bacon%27s_cipher), but the gist of it is that a set of bits are encoded not as bits, but as "text". So ``sTrAT`` could mean ``01011`` which decodes to an ``L`` (Look at the table on Wikipedia).
 
 So lets do that for all of the gray fields:
 
