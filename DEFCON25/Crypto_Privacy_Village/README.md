@@ -20,7 +20,7 @@ The website is still up at [http://goldbug.cryptovillage.org/tgbr/](http://goldb
 
 Some of these were handed out on paper as well, and some were not. We only managed to solve 5 of them, namely:
 
-- [iOS]()
+- [iOS](./iOS/iOS.md)
 - [ColecoVision]()
 - [ZX Spectrum](./ZXSpectrum/ZXSpectrum.md)
 - [Playstation 2]()
