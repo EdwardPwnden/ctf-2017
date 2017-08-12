@@ -11,3 +11,4 @@ Local organizing could be by category, and then by task, either as directories o
 ### Assorted and chosen writeups:
 
 - [Transmission control](./The_Gathering/writeup/crypto/transmission-control.md)
+- [Close encounter](./The_Gathering/writeup/crypto/close-encounter.md)
