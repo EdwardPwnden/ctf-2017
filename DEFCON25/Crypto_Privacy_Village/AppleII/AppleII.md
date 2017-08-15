@@ -10,7 +10,7 @@ It took us some time to understand that the letters missing were part of famous 
 
 When we figured that out, we took the letters ``HCAPCEROBNI`` and ran them through a couple of online anagram solvers.
 
-I can't find the correct one, but one of those gave us ``BACON CIPHER``. That sounds plausible!
+I can't find the correct one, but one of those gave us ``BACON CIPHER``. That sounds plausible!  (The puzzle writers also pointed out that if we had ordered the locations alphabetically, we would have gotten this!)
 
 Now, you can read more about [Bacon's cipher here](https://en.wikipedia.org/wiki/Bacon%27s_cipher), but the gist of it is that a set of bits are encoded not as bits, but as "text". So ``sTrAT`` could mean ``01011`` which decodes to an ``L`` (Look at the table on Wikipedia).
 
