@@ -6,6 +6,7 @@ Local organizing could be by category, and then by task, either as directories o
 ## CTF list:
 
 - [The Gathering](./The_Gathering)
+- [UiTHack - official writeup](https://github.com/NikolaiMagnussen/UiTHack)
 
 
 ### Assorted and chosen writeups:
